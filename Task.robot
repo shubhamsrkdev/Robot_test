@@ -24,8 +24,8 @@ Open erp by Chrome
     Open Browser    https://erp.bits-pilani.ac.in:4431/psp/hcsprod/?&cmd=login&errorCode=105&languageCd=ENG    chrome
 
 Test testing_suite
-    Run Keywords        Input Text      id:userid    41120160184
-    ...     AND     Input Text      id:pwd    S0IJ*3lU
+    Run Keywords        Input Text      id:userid    12456484
+    ...     AND     Input Text      id:pwd    sdasdadd
 
 
 
